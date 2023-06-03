@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Guriji-Astro/static/css/main.9d58162f.css",
+    "main.js": "/Guriji-Astro/static/js/main.59224b4d.js",
+    "static/media/dashboardbackground.png": "/Guriji-Astro/static/media/dashboardbackground.2ea3fb10c2a01e40d717.png",
+    "static/media/banner.png": "/Guriji-Astro/static/media/banner.ab780b70a30ab048b599.png",
+    "static/media/image1.png": "/Guriji-Astro/static/media/image1.9071b81e6677adca98c5.png",
+    "static/media/image4.png": "/Guriji-Astro/static/media/image4.fd0650579f17478f22ca.png",
+    "static/media/image2.png": "/Guriji-Astro/static/media/image2.f7661450efb4e26601b9.png",
+    "static/media/chakra.png": "/Guriji-Astro/static/media/chakra.092742f190f21dc25e60.png",
+    "static/media/video2.png": "/Guriji-Astro/static/media/video2.8d9599c12863b2f481f1.png",
+    "static/media/image3.png": "/Guriji-Astro/static/media/image3.6c238770e371c47820dd.png",
+    "static/media/video3.png": "/Guriji-Astro/static/media/video3.b9009988cd285a57cf74.png",
+    "static/media/astro.jpg": "/Guriji-Astro/static/media/astro.b7bd185af6a4af9e2e74.jpg",
+    "static/media/video1.png": "/Guriji-Astro/static/media/video1.200d5f6505f465aa7c19.png",
+    "static/media/video4.png": "/Guriji-Astro/static/media/video4.bd8b14f30225d1c9d2d9.png",
+    "static/media/video5.png": "/Guriji-Astro/static/media/video5.21ba7bb376516b8fec5b.png",
+    "static/media/review6.png": "/Guriji-Astro/static/media/review6.4765ba874d2874684b4a.png",
+    "static/media/bottomframe.png": "/Guriji-Astro/static/media/bottomframe.051948db64e3f1fa722f.png",
+    "static/media/cardBackground.png": "/Guriji-Astro/static/media/cardBackground.a799262ee83ce626029f.png",
+    "static/media/logo.png": "/Guriji-Astro/static/media/logo.ee39019e8c51569a38cf.png",
+    "static/media/review2.png": "/Guriji-Astro/static/media/review2.1242037e427b39165db9.png",
+    "static/media/review3.png": "/Guriji-Astro/static/media/review3.bc355011d0a2062c2d00.png",
+    "static/media/review1.png": "/Guriji-Astro/static/media/review1.2834126164b0c9d11e00.png",
+    "static/media/livecall.png": "/Guriji-Astro/static/media/livecall.34a997372484472c82c6.png",
+    "static/media/customer.png": "/Guriji-Astro/static/media/customer.6079e3b690988e7eab5e.png",
+    "static/media/refund.png": "/Guriji-Astro/static/media/refund.dfca1c3f225fc6197321.png",
+    "static/media/private.png": "/Guriji-Astro/static/media/private.49b9cce50e6c3be837fe.png",
+    "static/media/secure.png": "/Guriji-Astro/static/media/secure.bf5f44f67aee382a745b.png",
+    "index.html": "/Guriji-Astro/index.html",
+    "main.9d58162f.css.map": "/Guriji-Astro/static/css/main.9d58162f.css.map",
+    "main.59224b4d.js.map": "/Guriji-Astro/static/js/main.59224b4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d58162f.css",
+    "static/js/main.59224b4d.js"
+  ]
+}
